@@ -1,2 +1,3 @@
 # YouEdit
-YouEdit is  a text editor app where you can perform CRUD operation using Mern Stack
+YouEdit is  a Blogging plateform build entirely on JavaScipt frameworks capable of CRUD
+operation along with User Validation.
